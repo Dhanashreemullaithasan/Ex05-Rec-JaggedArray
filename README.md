@@ -2,13 +2,24 @@
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 ## Algorithm:
-### Step1:
 
+### Step1:
+Start
+
+### Step2:
+Create a jagged array of 4arrays.
+
+### Step3:
+Give the sample CPU usage in the jagged array.
+
+### Step4:
+Print the sample CPU usage in the jagged array.
+
+### Step5:
+stop
 
 ## Program:
 ```
-DEVELOPED BY:DHANASHREE M
-REGISTER NO:212221230018
 using System;
 
 class pr
@@ -62,5 +73,7 @@ class pr
 ```
 
 ## Output:
+![C# EX 5](https://user-images.githubusercontent.com/94165415/230872827-efd16491-a1c7-4c85-9467-074c9bca761c.png)
 
 ## Result:
+Thus,C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
